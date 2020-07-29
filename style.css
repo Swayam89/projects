@@ -1,0 +1,13 @@
+h1 {
+    color: brown;
+}
+.header{
+    background-color: aqua;
+    display: flex; /* or inline-flex */
+    justify-content: space-between
+}
+.header2{
+    background-color: aqua;
+    display: flex; /* or inline-flex */
+    justify-content: space-between
+}
